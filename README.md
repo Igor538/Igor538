@@ -63,5 +63,5 @@ Práticas com HTML/CSS/JS e mini aplicações.
 ## 📫 Contato
 
 - 📧 **igumorais@gmail.com**
-- 🔗 **http://www.linkedin.com/in/igormoraes01**
+- 🔗 **http://www.linkedin.com/in/igor538**
 
