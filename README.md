@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Igor!</h1>
+.<h1 align="center">👋 Olá, eu sou o Igor!</h1>
 
 <p align="center">
   🔧 Desenvolvedor em formação • 💻 Foco em Desenvolvimento Web • 🌱 Aprendendo Back-end e Banco de Dados
@@ -31,6 +31,7 @@
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
